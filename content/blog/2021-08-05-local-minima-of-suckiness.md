@@ -42,7 +42,7 @@ This is the best recent description I've found of the phenomenon we now call psy
 {{< tweet 1416606239392403458 >}}
 
 
-{{< figure src="https://raw.githubusercontent.com/veekaybee/veekaybee.github.io/master/static/images/safety.png" width="300px" >}}
+{{< figure src="https://raw.githubusercontent.com/veekaybee/veekaybee.github.io/master/static/images/safety.jpg" width="300px" >}}
 
 The simple story is that, in a good, productive software environment, you have the room to mess up. The apocryphal story about how this works is the one where the junior developer breaks production, costing the company thousands of dollars. After he sees this, he starts putting everything on his desk in a box. The CEO comes up to him and says, "Where are you going?" "I just cost the company so much money, I figured I was fired." "We just paid thousands of dollars to train you. Why would we let you go?"
 
